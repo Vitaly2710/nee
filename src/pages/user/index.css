@@ -1,0 +1,17 @@
+h2 {
+    text-align: center;
+}
+
+.homePage {
+    background-color: rgb(110, 110, 255);
+    cursor: pointer;
+    width: 50px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+div {
+    max-width: 600px;
+    margin: 0 auto
+
+}

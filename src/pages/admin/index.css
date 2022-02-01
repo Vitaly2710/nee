@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: rgb(0, 59, 30);
+}
+
+.wrapperInAdmin {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgb(246, 248, 94);
+    border-radius: 10px;
+    box-shadow: rgb(243, 208, 144) 10px 10px 40px 30px,
+        inset 12px 12px 40px rgb(179, 179, 179);
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+.userList {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+
+
+.listFoto {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.listFotoUsers {
+    margin-bottom: 20px;
+}
+
+.listUsers {
+    max-width: 250;
+    margin: 0 auto;
+}
